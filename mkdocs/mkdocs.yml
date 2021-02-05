@@ -1,0 +1,7 @@
+site_name: Documentation POC
+docs_dir: ../software-guidebook
+
+pages:
+  - 'Context': 1-context/context.md
+#nav:
+#  - Context: 1-context/context.md

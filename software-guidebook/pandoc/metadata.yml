@@ -1,0 +1,13 @@
+---
+title: Software Guidebook
+author: Robin Custers
+lang: en-US
+tags: [softwareguidebook]
+abstract: |
+  Software Guidebook.
+mainfont: DejaVu Sans
+
+# Filter preferences:
+# - pandoc-crossref
+linkReferences: true
+---
